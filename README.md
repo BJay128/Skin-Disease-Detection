@@ -2,18 +2,18 @@
 
 This applications helps detect a few commonly occuring skin diseases.
 
-List of Diseases:
-1.cold sore
-2.folliculitis
-3.hives
-4.jock itch
-5.psoriasis
-6.ringworm
-7.shingles
-8.tinea
-9.warts
+List of Diseases:<br/>
+1.cold sore <br/>
+2.folliculitis<br/>
+3.hives<br/>
+4.jock itch<br/>
+5.psoriasis<br/>
+6.ringworm<br/>
+7.shingles<br/>
+8.tinea<br/>
+9.warts<br/>
 
 Medication for the disease is also suggested. However, further research is required to be done on the medication aspect.
 
 # Backend Storage Structure
-![][db.png]
+![Backend Storage Structure](db.png)
